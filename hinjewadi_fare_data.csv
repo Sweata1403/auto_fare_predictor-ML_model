@@ -1,0 +1,501 @@
+date,hour,day_of_week,is_weekend,is_holiday,is_raining,weather_condition,time_of_day,ola_fare,ola_surge_active,ola_surge_multiplier,uber_fare,uber_surge_active,uber_surge_multiplier,rapido_fare,rapido_surge_active,rapido_surge_multiplier,cheapest_app,source,destination,distance_km
+2025-05-01,6,Thursday,0,0,1,Light Rain,Late Night,97.62,1,1.3,109.64,1,1.2,104.68,1,1.9,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-20,21,Friday,0,0,0,Clear,Evening Peak,82.4,1,1.3,75.19,0,1.0,61.44,1,1.4,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-15,2,Friday,0,0,0,Clear,Late Night,62.6,0,1.0,81.79,0,1.0,45.91,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-26,2,Saturday,1,0,0,Clear,Late Night,72.35,0,1.0,87.29,0,1.0,52.43,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-26,11,Tuesday,0,0,0,Clear,Off Peak,67.98,0,1.0,70.65,0,1.0,96.05,1,1.9,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-17,12,Monday,0,0,0,Clear,Off Peak,71.57,0,1.0,71.75,0,1.0,46.82,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-05,7,Wednesday,0,0,1,Heavy Rain,Morning Peak,118.91,1,1.7,144.15,1,1.7,98.83,1,1.7,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-07,2,Monday,0,0,1,Light Rain,Late Night,70.26,0,1.0,87.54,0,1.0,63.33,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-12,3,Saturday,1,0,0,Clear,Late Night,79.49,0,1.0,143.89,1,1.7,57.58,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-03,19,Saturday,1,0,1,Light Rain,Evening Peak,81.18,0,1.0,96.97,0,1.0,81.84,1,1.2,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-26,7,Wednesday,0,0,0,Clear,Morning Peak,66.81,0,1.0,77.34,0,1.0,46.23,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-23,19,Thursday,0,0,0,Clear,Evening Peak,70.62,0,1.0,78.41,0,1.0,48.27,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-24,4,Monday,0,0,0,Clear,Late Night,72.86,0,1.0,70.24,0,1.0,44.71,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-19,4,Thursday,0,0,1,Heavy Rain,Late Night,126.33,1,1.8,97.74,0,1.0,87.32,1,1.5,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-20,18,Thursday,0,0,0,Clear,Evening Peak,94.37,1,1.5,146.91,1,1.9,54.18,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-24,16,Tuesday,0,1,1,Heavy Rain,Off Peak,137.61,1,1.9,93.86,0,1.0,102.74,1,1.9,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-04,19,Wednesday,0,0,1,Heavy Rain,Evening Peak,124.77,1,1.7,120.54,1,1.4,50.48,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-22,0,Saturday,1,0,0,Clear,Late Night,69.79,0,1.0,137.13,1,1.7,58.58,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-17,13,Saturday,1,0,1,Light Rain,Off Peak,130.55,1,1.7,150.61,1,1.6,66.15,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-23,11,Thursday,0,0,0,Clear,Off Peak,120.91,1,1.8,125.48,1,1.5,71.19,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-08,0,Wednesday,0,0,0,Clear,Late Night,113.46,1,1.8,78.61,0,1.0,69.23,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-19,0,Monday,0,0,1,Light Rain,Late Night,77.21,0,1.0,154.46,1,1.8,112.41,1,1.7,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-01,1,Tuesday,0,0,0,Clear,Late Night,65.6,0,1.0,78.56,0,1.0,51.42,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-28,7,Friday,0,1,0,Clear,Morning Peak,115.98,1,1.9,84.66,0,1.0,47.04,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-26,9,Saturday,1,0,0,Clear,Morning Peak,69.57,0,1.0,89.36,0,1.0,65.13,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-03,0,Sunday,1,0,0,Clear,Late Night,70.29,0,1.0,87.51,0,1.0,64.61,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-23,11,Tuesday,0,0,0,Clear,Off Peak,64.05,0,1.0,85.49,0,1.0,44.82,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-16,9,Saturday,1,0,0,Clear,Morning Peak,72.58,0,1.0,90.65,0,1.0,58.04,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-10,23,Sunday,1,0,1,Light Rain,Late Night,140.0,1,1.8,105.24,0,1.0,119.55,1,1.9,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-02,12,Thursday,0,0,0,Clear,Off Peak,66.79,0,1.0,77.17,0,1.0,48.03,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-18,18,Monday,0,0,0,Clear,Evening Peak,66.79,0,1.0,116.69,1,1.5,56.44,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-17,16,Sunday,1,0,0,Clear,Off Peak,75.11,0,1.0,90.58,0,1.0,61.43,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-12,19,Monday,0,0,0,Clear,Evening Peak,63.92,0,1.0,153.55,1,2.0,46.73,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-10,19,Wednesday,0,0,0,Clear,Evening Peak,92.87,1,1.3,157.3,1,2.0,106.7,1,2.0,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-25,11,Monday,0,0,0,Clear,Off Peak,63.12,0,1.0,78.93,0,1.0,79.62,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-13,12,Thursday,0,0,0,Clear,Off Peak,63.09,0,1.0,73.92,0,1.0,53.33,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-25,12,Tuesday,0,0,0,Clear,Off Peak,66.29,0,1.0,74.69,0,1.0,49.56,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-19,23,Monday,0,1,0,Clear,Late Night,66.61,0,1.0,93.88,1,1.2,68.93,1,1.3,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-26,19,Monday,0,0,0,Clear,Evening Peak,108.8,1,1.6,100.86,1,1.2,58.76,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-01,3,Tuesday,0,0,0,Clear,Late Night,61.77,0,1.0,76.71,0,1.0,43.36,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-01,20,Thursday,0,0,0,Clear,Evening Peak,71.74,0,1.0,94.48,1,1.3,78.76,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-21,17,Sunday,1,0,0,Clear,Evening Peak,68.32,0,1.0,155.74,1,1.9,62.95,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-13,15,Sunday,1,0,1,Heavy Rain,Off Peak,156.06,1,2.0,169.45,1,1.9,65.73,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-22,0,Monday,0,0,1,Heavy Rain,Late Night,76.43,0,1.0,76.09,0,1.0,80.93,1,1.4,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-19,16,Sunday,1,0,0,Clear,Off Peak,69.14,0,1.0,88.74,0,1.0,62.23,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-10,1,Thursday,0,0,0,Clear,Late Night,83.97,1,1.4,81.87,0,1.0,52.58,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-22,16,Thursday,0,0,0,Clear,Off Peak,60.41,0,1.0,75.59,0,1.0,41.3,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-18,15,Thursday,0,0,0,Clear,Off Peak,112.13,1,1.6,76.21,0,1.0,48.1,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-16,9,Friday,0,0,0,Clear,Morning Peak,92.63,1,1.5,73.36,0,1.0,50.49,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-13,16,Tuesday,0,0,1,Light Rain,Off Peak,149.89,1,2.0,163.27,1,1.9,58.88,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-17,23,Wednesday,0,0,1,Light Rain,Late Night,115.49,1,1.6,117.38,1,1.4,61.25,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-12,11,Monday,0,0,1,Light Rain,Off Peak,128.81,1,1.8,90.31,0,1.0,98.55,1,1.8,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-11,8,Friday,0,0,0,Clear,Morning Peak,97.61,1,1.5,78.51,0,1.0,48.17,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-17,23,Sunday,1,0,1,Light Rain,Late Night,82.5,0,1.0,176.7,1,2.0,83.63,1,1.2,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-26,5,Wednesday,0,0,1,Heavy Rain,Late Night,114.28,1,1.6,154.38,1,1.8,62.86,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-12,5,Friday,0,0,0,Clear,Late Night,71.84,0,1.0,75.01,0,1.0,41.44,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-14,1,Friday,0,0,0,Clear,Late Night,74.56,0,1.0,75.58,0,1.0,51.81,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-21,20,Wednesday,0,0,1,Light Rain,Evening Peak,79.58,0,1.0,144.12,1,1.7,82.45,1,1.4,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-25,18,Wednesday,0,0,0,Clear,Evening Peak,71.84,0,1.0,143.7,1,1.8,75.69,1,1.7,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-08,16,Monday,0,0,0,Clear,Off Peak,71.04,0,1.0,68.84,0,1.0,55.73,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-10,9,Thursday,0,0,1,Light Rain,Morning Peak,133.55,1,1.9,122.82,1,1.4,78.04,1,1.2,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-13,5,Friday,0,0,0,Clear,Late Night,66.61,0,1.0,76.22,0,1.0,51.51,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-12,1,Wednesday,0,0,0,Clear,Late Night,61.9,0,1.0,73.02,0,1.0,81.44,1,1.7,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-22,12,Saturday,1,0,0,Clear,Off Peak,63.7,0,1.0,90.82,0,1.0,60.69,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-15,18,Friday,0,0,0,Clear,Evening Peak,81.99,1,1.3,76.02,0,1.0,70.78,1,1.5,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-27,8,Friday,0,0,0,Clear,Morning Peak,62.08,0,1.0,81.41,0,1.0,65.72,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-22,1,Wednesday,0,0,0,Clear,Late Night,64.02,0,1.0,76.91,0,1.0,49.08,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-19,17,Friday,0,1,0,Clear,Evening Peak,106.78,1,1.6,122.49,1,1.6,46.36,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-28,23,Wednesday,0,0,0,Clear,Late Night,69.34,0,1.0,76.42,0,1.0,50.94,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-14,16,Tuesday,0,0,0,Clear,Off Peak,72.27,0,1.0,78.44,0,1.0,49.26,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-15,1,Thursday,0,1,1,Heavy Rain,Late Night,140.39,1,1.9,81.3,0,1.0,72.29,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-07,18,Monday,0,0,0,Clear,Evening Peak,130.6,1,2.0,139.3,1,1.8,45.77,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-12,9,Sunday,1,0,1,Heavy Rain,Morning Peak,86.32,0,1.0,171.68,1,1.9,93.17,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-18,4,Saturday,1,0,1,Light Rain,Late Night,115.35,1,1.4,161.07,1,1.8,96.1,1,1.6,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-05,13,Monday,0,0,0,Clear,Off Peak,65.68,0,1.0,124.06,1,1.6,43.48,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-21,5,Tuesday,0,0,1,Light Rain,Late Night,79.21,0,1.0,93.65,0,1.0,58.33,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-17,12,Monday,0,0,0,Clear,Off Peak,63.61,0,1.0,78.79,0,1.0,43.9,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-11,6,Wednesday,0,0,1,Heavy Rain,Late Night,93.31,1,1.3,91.19,0,1.0,55.12,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-18,12,Wednesday,0,0,0,Clear,Off Peak,65.72,0,1.0,76.66,0,1.0,43.77,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-19,4,Thursday,0,0,0,Clear,Late Night,63.4,0,1.0,72.72,0,1.0,49.1,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-07,7,Sunday,1,0,1,Light Rain,Morning Peak,143.22,1,1.9,91.36,0,1.0,123.27,1,2.0,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-03,15,Tuesday,0,0,0,Clear,Off Peak,65.54,0,1.0,83.43,0,1.0,39.15,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-01,11,Thursday,0,0,0,Clear,Off Peak,56.68,0,1.0,72.86,0,1.0,58.17,0,1.0,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-14,15,Friday,0,0,0,Clear,Off Peak,66.94,0,1.0,93.93,1,1.2,94.26,1,1.8,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-04,19,Friday,0,0,1,Heavy Rain,Evening Peak,120.72,1,1.7,158.21,1,1.8,60.8,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-11,4,Monday,0,0,0,Clear,Late Night,61.78,0,1.0,74.19,0,1.0,88.9,1,1.8,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-11,5,Sunday,1,0,1,Light Rain,Late Night,80.51,0,1.0,130.73,1,1.4,106.16,1,1.7,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-18,8,Monday,0,0,1,Light Rain,Morning Peak,132.32,1,1.7,139.33,1,1.6,71.82,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-11,16,Wednesday,0,0,1,Light Rain,Off Peak,86.43,0,1.0,117.15,1,1.3,84.17,1,1.4,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-13,23,Thursday,0,0,0,Clear,Late Night,69.33,0,1.0,75.93,0,1.0,50.9,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-21,18,Tuesday,0,0,0,Clear,Evening Peak,124.13,1,1.9,116.13,1,1.4,48.14,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-02,9,Thursday,0,0,0,Clear,Morning Peak,61.2,0,1.0,146.72,1,1.9,61.67,1,1.3,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-16,13,Friday,0,0,0,Clear,Off Peak,65.76,0,1.0,78.19,0,1.0,52.58,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-12,5,Wednesday,0,0,1,Light Rain,Late Night,118.15,1,1.5,158.41,1,1.9,62.78,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-11,9,Saturday,1,0,0,Clear,Morning Peak,74.47,0,1.0,83.9,0,1.0,57.48,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-22,22,Tuesday,0,0,0,Clear,Late Night,76.36,1,1.3,122.63,1,1.6,53.51,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-15,10,Wednesday,0,1,1,Heavy Rain,Morning Peak,78.72,0,1.0,168.97,1,2.0,87.53,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-20,2,Monday,0,0,0,Clear,Late Night,99.31,1,1.6,102.77,1,1.3,51.83,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-28,6,Wednesday,0,0,1,Light Rain,Late Night,141.35,1,2.0,84.63,0,1.0,98.46,1,1.7,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-11,21,Friday,0,0,0,Clear,Evening Peak,58.68,0,1.0,92.91,1,1.2,47.25,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-01,12,Monday,0,0,1,Heavy Rain,Off Peak,73.13,0,1.0,89.81,0,1.0,86.61,1,1.3,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-17,17,Thursday,0,0,0,Clear,Evening Peak,84.41,1,1.3,119.53,1,1.5,56.08,1,1.2,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-11,7,Wednesday,0,0,0,Clear,Morning Peak,104.37,1,1.7,159.44,1,2.0,52.07,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-13,19,Thursday,0,0,0,Clear,Evening Peak,83.23,1,1.2,84.74,0,1.0,48.16,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-05,12,Wednesday,0,1,0,Clear,Off Peak,67.09,0,1.0,75.71,0,1.0,56.91,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-21,23,Monday,0,0,0,Clear,Late Night,66.75,0,1.0,72.62,0,1.0,48.52,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-02,23,Thursday,0,0,0,Clear,Late Night,77.42,0,1.0,79.39,0,1.0,49.67,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-08,14,Tuesday,0,0,1,Light Rain,Off Peak,101.51,1,1.4,87.31,0,1.0,72.86,1,1.4,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-20,22,Tuesday,0,1,0,Clear,Late Night,64.9,0,1.0,82.69,0,1.0,53.09,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-15,1,Sunday,1,0,0,Clear,Late Night,87.61,1,1.4,90.43,0,1.0,55.17,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-28,10,Tuesday,0,0,0,Clear,Morning Peak,96.46,1,1.5,82.93,0,1.0,46.65,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-09,10,Friday,0,0,0,Clear,Morning Peak,119.08,1,1.8,154.54,1,1.9,59.23,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-25,4,Thursday,0,0,0,Clear,Late Night,65.76,0,1.0,74.42,0,1.0,57.89,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-23,17,Friday,0,0,1,Heavy Rain,Evening Peak,115.15,1,1.6,109.65,1,1.3,114.58,1,2.0,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-14,5,Friday,0,0,1,Heavy Rain,Late Night,141.59,1,2.0,89.89,0,1.0,105.39,1,1.9,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-09,0,Wednesday,0,0,1,Heavy Rain,Late Night,123.62,1,1.7,91.37,0,1.0,57.55,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-24,12,Monday,0,0,0,Clear,Off Peak,69.89,0,1.0,127.58,1,1.6,98.16,1,1.9,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-17,21,Sunday,1,0,0,Clear,Evening Peak,71.43,0,1.0,82.46,0,1.0,64.21,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-15,2,Thursday,0,0,0,Clear,Late Night,70.08,0,1.0,80.79,0,1.0,43.48,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-13,10,Sunday,1,0,1,Light Rain,Morning Peak,98.68,1,1.2,96.99,0,1.0,81.57,1,1.2,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-13,1,Saturday,1,0,0,Clear,Late Night,76.88,0,1.0,83.53,0,1.0,64.06,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-10,3,Tuesday,0,0,0,Clear,Late Night,68.09,0,1.0,85.39,0,1.0,50.89,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-09,23,Thursday,0,0,0,Clear,Late Night,93.49,1,1.5,78.27,0,1.0,60.18,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-28,14,Tuesday,0,0,0,Clear,Off Peak,118.65,1,1.8,74.57,0,1.0,45.77,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-15,6,Tuesday,0,0,1,Light Rain,Late Night,72.43,0,1.0,89.0,0,1.0,86.75,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-09,6,Wednesday,0,0,0,Clear,Late Night,65.58,0,1.0,74.79,0,1.0,56.56,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-06,16,Wednesday,0,0,1,Light Rain,Off Peak,79.28,0,1.0,96.51,0,1.0,59.67,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-03,3,Friday,0,0,0,Clear,Late Night,86.94,1,1.4,79.32,0,1.0,53.33,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-16,21,Saturday,1,0,0,Clear,Evening Peak,72.95,0,1.0,86.45,0,1.0,63.24,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-28,9,Saturday,1,0,0,Clear,Morning Peak,75.78,0,1.0,85.92,0,1.0,59.53,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-14,18,Saturday,1,0,1,Light Rain,Evening Peak,152.78,1,1.9,99.57,0,1.0,87.01,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-04,22,Tuesday,0,0,0,Clear,Late Night,67.33,0,1.0,83.24,0,1.0,50.16,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-10,17,Sunday,1,0,0,Clear,Evening Peak,65.02,0,1.0,90.87,0,1.0,66.77,0,1.0,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-25,13,Saturday,1,0,0,Clear,Off Peak,108.22,1,1.5,84.26,0,1.0,90.82,1,1.7,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-25,1,Monday,0,0,0,Clear,Late Night,62.93,0,1.0,151.93,1,1.9,49.76,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-02,14,Thursday,0,0,0,Clear,Off Peak,60.79,0,1.0,80.9,0,1.0,48.16,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-03,22,Wednesday,0,0,0,Clear,Late Night,64.68,0,1.0,72.08,0,1.0,47.61,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-04,20,Monday,0,0,1,Heavy Rain,Evening Peak,122.04,1,1.8,141.67,1,1.7,59.03,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-02,6,Tuesday,0,0,0,Clear,Late Night,62.97,0,1.0,73.32,0,1.0,53.51,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-13,20,Saturday,1,0,1,Light Rain,Evening Peak,114.05,1,1.4,138.66,1,1.5,74.3,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-09,16,Wednesday,0,0,0,Clear,Off Peak,62.25,0,1.0,76.17,0,1.0,52.93,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-18,19,Friday,0,0,0,Clear,Evening Peak,125.05,1,2.0,114.58,1,1.5,57.3,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-13,7,Friday,0,0,1,Light Rain,Morning Peak,117.47,1,1.6,159.17,1,1.9,61.88,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-11,22,Wednesday,0,0,0,Clear,Late Night,66.04,0,1.0,68.26,0,1.0,50.74,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-08,19,Sunday,1,0,1,Heavy Rain,Evening Peak,89.98,0,1.0,112.59,1,1.3,70.12,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-12,8,Tuesday,0,0,0,Clear,Morning Peak,61.61,0,1.0,81.85,0,1.0,49.79,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-26,7,Tuesday,0,0,0,Clear,Morning Peak,113.59,1,1.8,79.44,0,1.0,65.82,1,1.4,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-09,17,Saturday,1,0,0,Clear,Evening Peak,65.13,0,1.0,81.15,0,1.0,62.54,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-13,14,Tuesday,0,0,0,Clear,Off Peak,111.83,1,1.8,78.94,0,1.0,46.69,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-03,17,Tuesday,0,0,0,Clear,Evening Peak,94.64,1,1.4,149.44,1,1.9,56.81,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-02,21,Wednesday,0,0,0,Clear,Evening Peak,118.73,1,1.9,139.47,1,1.8,91.58,1,1.9,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-26,10,Monday,0,0,0,Clear,Morning Peak,88.52,1,1.4,79.11,0,1.0,55.82,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-22,21,Thursday,0,0,1,Heavy Rain,Evening Peak,105.95,1,1.5,158.45,1,1.9,93.91,1,1.5,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-07,4,Saturday,1,0,0,Clear,Late Night,71.4,0,1.0,90.67,0,1.0,55.71,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-19,3,Friday,0,0,0,Clear,Late Night,72.45,0,1.0,85.55,0,1.0,47.5,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-23,16,Sunday,1,0,0,Clear,Off Peak,76.31,0,1.0,89.79,0,1.0,60.73,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-16,16,Sunday,1,0,0,Clear,Off Peak,75.47,0,1.0,88.79,0,1.0,59.82,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-17,14,Wednesday,0,1,0,Clear,Off Peak,60.67,0,1.0,79.42,0,1.0,50.19,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-04,21,Friday,0,0,0,Clear,Evening Peak,76.35,1,1.2,80.11,0,1.0,39.14,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-12,5,Tuesday,0,0,0,Clear,Late Night,61.8,0,1.0,81.6,0,1.0,53.11,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-25,19,Monday,0,0,1,Heavy Rain,Evening Peak,73.09,0,1.0,156.63,1,1.9,65.65,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-24,11,Monday,0,0,0,Clear,Off Peak,61.79,0,1.0,91.7,1,1.3,53.54,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-19,10,Thursday,0,0,0,Clear,Morning Peak,66.95,0,1.0,127.02,1,1.6,61.65,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-28,18,Monday,0,1,1,Heavy Rain,Evening Peak,92.44,1,1.2,130.06,1,1.5,109.64,1,2.0,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-07,8,Sunday,1,0,1,Heavy Rain,Morning Peak,80.71,0,1.0,86.31,0,1.0,113.21,1,1.9,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-26,23,Sunday,1,0,0,Clear,Late Night,81.04,0,1.0,83.49,0,1.0,60.41,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-25,3,Saturday,1,0,1,Light Rain,Late Night,81.1,0,1.0,99.84,0,1.0,101.47,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-11,2,Thursday,0,0,0,Clear,Late Night,71.35,0,1.0,76.29,0,1.0,54.59,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-28,23,Thursday,0,0,0,Clear,Late Night,72.49,0,1.0,82.32,0,1.0,50.27,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-05,19,Saturday,1,0,1,Light Rain,Evening Peak,146.91,1,1.9,95.81,0,1.0,102.94,1,1.7,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-05,5,Saturday,1,0,0,Clear,Late Night,111.68,1,1.6,142.41,1,1.7,53.24,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-12,2,Monday,0,0,0,Clear,Late Night,63.98,0,1.0,79.94,0,1.0,49.06,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-19,10,Tuesday,0,0,1,Light Rain,Morning Peak,114.01,1,1.6,156.37,1,1.8,74.74,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-06,10,Monday,0,0,0,Clear,Morning Peak,115.36,1,1.8,107.93,1,1.4,47.3,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-17,8,Thursday,0,0,0,Clear,Morning Peak,70.5,0,1.0,113.25,1,1.4,52.06,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-14,6,Monday,0,0,1,Heavy Rain,Late Night,77.72,0,1.0,140.73,1,1.7,62.6,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-03,7,Saturday,1,1,0,Clear,Morning Peak,70.86,0,1.0,85.64,0,1.0,76.26,1,1.4,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-21,9,Wednesday,0,0,1,Heavy Rain,Morning Peak,132.0,1,1.8,162.84,1,1.9,60.45,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-24,7,Monday,0,0,0,Clear,Morning Peak,84.57,1,1.4,81.12,0,1.0,63.8,1,1.2,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-03,22,Friday,0,0,1,Light Rain,Late Night,83.84,0,1.0,91.41,0,1.0,87.57,1,1.4,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-08,20,Friday,0,0,0,Clear,Evening Peak,82.43,1,1.3,125.76,1,1.6,46.05,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-02,20,Wednesday,0,0,0,Clear,Evening Peak,108.63,1,1.7,80.91,0,1.0,67.3,1,1.4,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-25,22,Monday,0,0,0,Clear,Late Night,62.03,0,1.0,72.72,0,1.0,48.28,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-08,12,Monday,0,0,0,Clear,Off Peak,62.23,0,1.0,81.85,0,1.0,59.45,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-27,10,Thursday,0,0,0,Clear,Morning Peak,103.0,1,1.7,117.46,1,1.5,46.46,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-08,6,Sunday,1,0,1,Heavy Rain,Late Night,151.07,1,2.0,95.17,0,1.0,63.95,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-04,20,Friday,0,0,0,Clear,Evening Peak,128.07,1,2.0,78.59,0,1.0,56.45,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-07,0,Sunday,1,0,0,Clear,Late Night,76.59,0,1.0,85.18,0,1.0,61.43,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-02,1,Sunday,1,0,0,Clear,Late Night,113.94,1,1.7,86.03,0,1.0,59.81,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-05,5,Wednesday,0,0,0,Clear,Late Night,60.7,0,1.0,77.49,0,1.0,42.47,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-06,20,Saturday,1,0,0,Clear,Evening Peak,76.88,0,1.0,87.71,0,1.0,53.23,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-24,11,Tuesday,0,0,0,Clear,Off Peak,68.68,0,1.0,77.69,0,1.0,48.62,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-05,4,Sunday,1,0,0,Clear,Late Night,78.24,0,1.0,91.58,0,1.0,51.27,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-11,7,Tuesday,0,0,1,Light Rain,Morning Peak,93.28,1,1.3,163.54,1,2.0,62.39,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-04,9,Wednesday,0,0,0,Clear,Morning Peak,90.63,1,1.4,133.52,1,1.7,93.84,1,2.0,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-26,4,Friday,0,0,0,Clear,Late Night,59.05,0,1.0,76.27,0,1.0,54.08,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-17,16,Friday,0,0,0,Clear,Off Peak,107.85,1,1.6,70.7,0,1.0,49.18,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-04,2,Thursday,0,0,0,Clear,Late Night,74.34,0,1.0,75.22,0,1.0,51.82,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-12,21,Wednesday,0,0,0,Clear,Evening Peak,95.32,1,1.5,124.6,1,1.6,48.55,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-23,5,Monday,0,0,1,Light Rain,Late Night,84.87,0,1.0,136.47,1,1.6,54.3,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-03,10,Monday,0,0,0,Clear,Morning Peak,112.44,1,1.6,135.73,1,1.8,45.91,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-02,4,Friday,0,0,1,Light Rain,Late Night,125.82,1,1.8,105.92,1,1.2,101.32,1,1.7,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-08,2,Saturday,1,0,1,Heavy Rain,Late Night,128.36,1,1.7,101.43,0,1.0,112.43,1,1.9,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-03,8,Sunday,1,0,1,Heavy Rain,Morning Peak,86.73,0,1.0,94.16,0,1.0,83.9,1,1.2,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-15,13,Thursday,0,0,0,Clear,Off Peak,62.14,0,1.0,110.54,1,1.4,51.79,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-09,1,Sunday,1,0,0,Clear,Late Night,69.98,0,1.0,86.24,0,1.0,56.63,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-28,20,Friday,0,0,0,Clear,Evening Peak,84.53,1,1.3,136.61,1,1.7,50.84,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-18,13,Thursday,0,0,0,Clear,Off Peak,63.03,0,1.0,78.91,0,1.0,51.71,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-11,23,Tuesday,0,0,1,Heavy Rain,Late Night,79.83,0,1.0,163.92,1,1.9,93.92,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-26,10,Wednesday,0,0,0,Clear,Morning Peak,122.8,1,1.9,119.41,1,1.5,64.32,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-21,0,Thursday,0,0,0,Clear,Late Night,67.09,0,1.0,74.73,0,1.0,90.35,1,1.8,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-12,19,Wednesday,0,1,0,Clear,Evening Peak,65.79,0,1.0,116.71,1,1.5,54.45,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-18,8,Thursday,0,0,1,Heavy Rain,Morning Peak,106.18,1,1.5,158.07,1,1.8,104.69,1,1.8,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-12,5,Thursday,0,0,0,Clear,Late Night,64.34,0,1.0,82.01,0,1.0,52.07,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-24,14,Friday,0,0,0,Clear,Off Peak,124.21,1,1.9,78.33,0,1.0,52.64,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-10,10,Monday,0,0,1,Heavy Rain,Morning Peak,101.9,1,1.4,154.15,1,1.8,62.08,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-04,8,Tuesday,0,0,0,Clear,Morning Peak,69.98,0,1.0,74.71,0,1.0,92.53,1,1.7,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-09,14,Wednesday,0,0,0,Clear,Off Peak,68.15,0,1.0,68.91,0,1.0,46.25,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-25,1,Tuesday,0,0,0,Clear,Late Night,65.08,0,1.0,102.32,1,1.3,47.35,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-06,9,Wednesday,0,0,0,Clear,Morning Peak,108.11,1,1.7,73.32,0,1.0,53.39,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-06,23,Saturday,1,0,0,Clear,Late Night,68.64,0,1.0,132.18,1,1.6,66.09,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-12,5,Saturday,1,0,1,Heavy Rain,Late Night,117.53,1,1.5,97.2,0,1.0,65.07,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-12,15,Wednesday,0,0,1,Heavy Rain,Off Peak,70.61,0,1.0,91.85,0,1.0,77.65,1,1.3,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-11,1,Monday,0,0,1,Heavy Rain,Late Night,129.17,1,1.8,97.22,0,1.0,61.24,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-12,19,Tuesday,0,0,1,Heavy Rain,Evening Peak,72.0,0,1.0,162.62,1,1.9,75.25,1,1.3,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-03,9,Thursday,0,0,0,Clear,Morning Peak,129.74,1,2.0,75.4,0,1.0,55.29,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-26,2,Monday,0,0,0,Clear,Late Night,57.64,0,1.0,154.64,1,1.9,51.95,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-26,0,Monday,0,0,0,Clear,Late Night,67.63,0,1.0,79.97,0,1.0,56.81,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-16,18,Wednesday,0,0,0,Clear,Evening Peak,129.18,1,1.9,146.06,1,1.9,47.37,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-02,6,Saturday,1,0,0,Clear,Late Night,69.83,0,1.0,137.86,1,1.6,56.52,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-07,23,Tuesday,0,0,1,Light Rain,Late Night,76.33,0,1.0,139.46,1,1.6,77.47,1,1.2,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-26,20,Friday,0,0,0,Clear,Evening Peak,61.62,0,1.0,82.43,0,1.0,71.37,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-16,17,Saturday,1,0,0,Clear,Evening Peak,95.63,1,1.3,162.99,1,2.0,63.84,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-15,22,Sunday,1,0,1,Heavy Rain,Late Night,78.12,0,1.0,127.9,1,1.4,79.2,0,1.0,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-09,20,Friday,0,0,0,Clear,Evening Peak,101.83,1,1.5,152.18,1,1.9,88.31,1,1.8,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-17,8,Friday,0,0,0,Clear,Morning Peak,67.71,0,1.0,80.95,0,1.0,54.56,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-24,2,Tuesday,0,0,0,Clear,Late Night,63.82,0,1.0,93.31,1,1.2,49.76,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-19,18,Saturday,1,1,0,Clear,Evening Peak,74.82,0,1.0,88.8,0,1.0,59.68,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-16,11,Wednesday,0,0,1,Light Rain,Off Peak,126.37,1,1.7,111.16,1,1.3,62.11,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-22,0,Monday,0,0,0,Clear,Late Night,65.41,0,1.0,77.55,0,1.0,52.81,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-19,23,Wednesday,0,0,0,Clear,Late Night,62.96,0,1.0,78.85,0,1.0,47.76,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-26,21,Friday,0,0,0,Clear,Evening Peak,66.36,0,1.0,156.13,1,2.0,46.97,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-28,4,Thursday,0,0,0,Clear,Late Night,57.62,0,1.0,74.28,0,1.0,49.67,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-15,23,Tuesday,0,0,0,Clear,Late Night,59.2,0,1.0,85.06,0,1.0,47.49,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-04,1,Saturday,1,0,0,Clear,Late Night,66.38,0,1.0,94.55,0,1.0,51.41,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-01,0,Wednesday,0,0,0,Clear,Late Night,117.68,1,1.8,115.86,1,1.4,52.9,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-20,16,Friday,0,0,0,Clear,Off Peak,64.56,0,1.0,111.19,1,1.4,49.91,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-17,20,Sunday,1,0,1,Heavy Rain,Evening Peak,123.3,1,1.6,105.86,0,1.0,92.16,1,1.4,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-16,14,Thursday,0,0,0,Clear,Off Peak,61.34,0,1.0,74.67,0,1.0,52.73,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-19,17,Saturday,1,0,1,Heavy Rain,Evening Peak,149.45,1,1.9,146.73,1,1.6,105.05,1,1.8,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-05,16,Monday,0,0,0,Clear,Off Peak,63.32,0,1.0,138.05,1,1.7,63.04,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-22,14,Thursday,0,0,0,Clear,Off Peak,64.79,0,1.0,79.59,0,1.0,44.74,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-19,23,Thursday,0,0,0,Clear,Late Night,64.89,0,1.0,100.79,1,1.3,53.42,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-24,2,Thursday,0,0,0,Clear,Late Night,68.83,0,1.0,69.42,0,1.0,52.13,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-19,12,Sunday,1,0,0,Clear,Off Peak,67.46,0,1.0,91.8,0,1.0,60.55,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-15,12,Wednesday,0,0,0,Clear,Off Peak,63.85,0,1.0,107.54,1,1.5,45.78,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-15,4,Sunday,1,0,0,Clear,Late Night,73.45,0,1.0,92.98,0,1.0,56.88,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-24,18,Thursday,0,0,0,Clear,Evening Peak,66.7,0,1.0,74.74,0,1.0,46.4,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-16,7,Wednesday,0,0,0,Clear,Morning Peak,108.34,1,1.6,82.22,0,1.0,54.06,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-17,14,Friday,0,0,0,Clear,Off Peak,103.04,1,1.6,125.97,1,1.6,48.3,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-01,6,Friday,0,0,1,Light Rain,Late Night,126.25,1,1.7,89.11,0,1.0,110.66,1,1.9,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-18,21,Monday,0,0,0,Clear,Evening Peak,108.29,1,1.6,74.8,0,1.0,49.75,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-27,18,Tuesday,0,0,0,Clear,Evening Peak,66.98,0,1.0,78.18,0,1.0,69.8,1,1.3,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-11,9,Friday,0,0,0,Clear,Morning Peak,108.53,1,1.7,115.19,1,1.5,49.48,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-05,1,Saturday,1,0,1,Light Rain,Late Night,97.86,1,1.3,152.08,1,1.6,74.51,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-26,11,Friday,0,0,0,Clear,Off Peak,68.09,0,1.0,76.05,0,1.0,47.24,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-02,3,Tuesday,0,0,0,Clear,Late Night,72.24,0,1.0,77.13,0,1.0,45.64,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-06,11,Tuesday,0,0,0,Clear,Off Peak,61.86,0,1.0,82.62,0,1.0,48.32,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-23,14,Wednesday,0,0,1,Heavy Rain,Off Peak,73.73,0,1.0,118.76,1,1.4,86.18,1,1.4,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-15,23,Thursday,0,0,1,Heavy Rain,Late Night,79.15,0,1.0,83.2,0,1.0,60.96,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-16,23,Saturday,1,0,0,Clear,Late Night,134.18,1,1.9,155.03,1,1.9,59.88,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-11,19,Thursday,0,0,0,Clear,Evening Peak,117.36,1,1.9,108.81,1,1.4,47.98,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-25,20,Wednesday,0,0,0,Clear,Evening Peak,60.87,0,1.0,82.45,0,1.0,42.99,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-14,3,Friday,0,0,0,Clear,Late Night,58.89,0,1.0,84.61,0,1.0,57.5,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-23,1,Sunday,1,0,0,Clear,Late Night,71.8,0,1.0,121.08,1,1.6,91.75,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-12,10,Friday,0,0,0,Clear,Morning Peak,128.58,1,2.0,84.43,0,1.0,76.42,1,1.5,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-13,21,Saturday,1,0,0,Clear,Evening Peak,85.28,1,1.2,80.93,0,1.0,58.97,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-26,12,Tuesday,0,0,0,Clear,Off Peak,113.37,1,1.7,76.14,0,1.0,49.4,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-15,16,Thursday,0,0,1,Heavy Rain,Off Peak,105.52,1,1.4,86.78,0,1.0,113.15,1,2.0,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-18,13,Thursday,0,0,0,Clear,Off Peak,65.3,0,1.0,76.7,0,1.0,52.63,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-28,6,Thursday,0,0,0,Clear,Late Night,69.93,0,1.0,91.25,1,1.3,52.17,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-24,9,Sunday,1,0,0,Clear,Morning Peak,68.13,0,1.0,110.2,1,1.3,59.15,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-23,22,Saturday,1,0,0,Clear,Late Night,71.56,0,1.0,87.2,0,1.0,59.4,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-12,16,Monday,0,0,0,Clear,Off Peak,73.98,1,1.2,84.96,0,1.0,48.72,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-16,7,Monday,0,0,1,Light Rain,Morning Peak,130.76,1,1.9,150.4,1,1.8,90.3,1,1.6,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-04,22,Sunday,1,0,0,Clear,Late Night,77.14,0,1.0,93.62,0,1.0,64.5,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-08,6,Monday,0,0,1,Heavy Rain,Late Night,76.13,0,1.0,137.72,1,1.6,62.85,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-26,5,Saturday,1,0,0,Clear,Late Night,108.81,1,1.5,78.59,0,1.0,71.34,1,1.2,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-24,19,Sunday,1,0,0,Clear,Evening Peak,70.68,0,1.0,86.52,0,1.0,59.54,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-13,7,Tuesday,0,0,1,Heavy Rain,Morning Peak,128.84,1,1.9,148.06,1,1.7,98.08,1,1.6,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-23,13,Saturday,1,0,0,Clear,Off Peak,73.53,0,1.0,84.37,0,1.0,64.14,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-13,19,Saturday,1,0,0,Clear,Evening Peak,91.79,1,1.3,79.79,0,1.0,56.79,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-21,13,Monday,0,0,0,Clear,Off Peak,69.88,0,1.0,76.05,0,1.0,51.3,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-17,20,Sunday,1,0,1,Light Rain,Evening Peak,83.22,0,1.0,136.01,1,1.5,68.13,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-26,1,Sunday,1,0,0,Clear,Late Night,68.62,0,1.0,88.18,0,1.0,58.64,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-03,16,Wednesday,0,0,0,Clear,Off Peak,75.13,0,1.0,74.75,0,1.0,42.26,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-14,13,Wednesday,0,0,1,Light Rain,Off Peak,110.45,1,1.6,89.13,0,1.0,57.93,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-27,1,Wednesday,0,0,0,Clear,Late Night,68.77,0,1.0,79.87,0,1.0,101.08,1,1.9,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-02,15,Monday,0,0,0,Clear,Off Peak,58.17,0,1.0,141.99,1,1.9,70.58,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-21,2,Tuesday,0,0,0,Clear,Late Night,88.2,1,1.3,79.39,0,1.0,62.07,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-17,23,Monday,0,0,0,Clear,Late Night,61.35,0,1.0,125.55,1,1.6,55.57,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-09,7,Sunday,1,0,0,Clear,Morning Peak,64.8,0,1.0,83.07,0,1.0,57.01,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-23,15,Tuesday,0,0,1,Light Rain,Off Peak,109.02,1,1.6,162.53,1,1.9,81.74,1,1.4,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-22,11,Monday,0,0,0,Clear,Off Peak,66.8,0,1.0,70.54,0,1.0,54.11,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-13,5,Wednesday,0,0,0,Clear,Late Night,91.42,1,1.5,97.87,1,1.4,51.94,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-06,16,Sunday,1,0,0,Clear,Off Peak,74.85,0,1.0,138.56,1,1.7,58.14,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-03,5,Wednesday,0,1,0,Clear,Late Night,63.63,0,1.0,78.68,0,1.0,52.44,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-03,16,Wednesday,0,0,0,Clear,Off Peak,65.63,0,1.0,141.95,1,1.9,55.52,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-03,3,Friday,0,0,0,Clear,Late Night,62.18,0,1.0,74.23,0,1.0,50.4,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-06,21,Sunday,1,1,1,Heavy Rain,Evening Peak,78.93,0,1.0,169.1,1,1.9,97.77,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-15,4,Friday,0,0,0,Clear,Late Night,85.11,1,1.3,122.02,1,1.5,49.26,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-24,7,Tuesday,0,0,0,Clear,Morning Peak,98.74,1,1.5,84.03,0,1.0,47.23,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-23,5,Wednesday,0,0,1,Light Rain,Late Night,109.6,1,1.4,117.68,1,1.3,71.83,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-14,1,Friday,0,0,0,Clear,Late Night,67.29,0,1.0,73.7,0,1.0,55.13,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-18,2,Thursday,0,0,0,Clear,Late Night,60.69,0,1.0,74.42,0,1.0,48.45,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-02,2,Friday,0,0,1,Light Rain,Late Night,103.94,1,1.5,86.12,0,1.0,67.65,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-05,14,Sunday,1,0,1,Light Rain,Off Peak,110.27,1,1.4,94.66,0,1.0,65.47,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-03,3,Thursday,0,0,0,Clear,Late Night,61.57,0,1.0,82.85,0,1.0,44.99,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-05,14,Thursday,0,0,0,Clear,Off Peak,62.32,0,1.0,120.97,1,1.6,45.82,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-19,21,Thursday,0,0,0,Clear,Evening Peak,84.05,1,1.4,111.94,1,1.5,45.63,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-19,5,Saturday,1,0,1,Light Rain,Late Night,81.18,0,1.0,98.44,0,1.0,100.98,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-21,2,Monday,0,0,0,Clear,Late Night,105.19,1,1.8,86.46,0,1.0,46.19,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-12,10,Monday,0,0,0,Clear,Morning Peak,103.22,1,1.6,102.55,1,1.4,91.84,1,1.8,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-09,18,Tuesday,0,0,0,Clear,Evening Peak,89.74,1,1.3,80.73,0,1.0,49.78,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-12,21,Tuesday,0,0,0,Clear,Evening Peak,66.48,0,1.0,75.22,0,1.0,58.62,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-14,8,Tuesday,0,0,0,Clear,Morning Peak,71.77,0,1.0,111.88,1,1.5,50.76,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-24,1,Friday,0,0,1,Heavy Rain,Late Night,76.77,0,1.0,159.41,1,1.9,63.51,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-16,12,Thursday,0,0,1,Light Rain,Off Peak,123.74,1,1.7,91.5,0,1.0,86.41,1,1.4,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-17,3,Friday,0,0,0,Clear,Late Night,61.38,0,1.0,82.69,0,1.0,46.49,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-21,8,Saturday,1,0,1,Heavy Rain,Morning Peak,83.49,0,1.0,101.53,0,1.0,72.88,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-27,16,Thursday,0,0,0,Clear,Off Peak,67.43,0,1.0,89.06,0,1.0,55.67,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-14,7,Sunday,1,0,0,Clear,Morning Peak,66.64,0,1.0,160.82,1,2.0,57.26,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-27,2,Monday,0,0,0,Clear,Late Night,69.59,0,1.0,77.86,0,1.0,55.39,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-20,11,Thursday,0,0,0,Clear,Off Peak,94.44,1,1.5,104.12,1,1.3,54.39,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-19,14,Friday,0,0,1,Heavy Rain,Off Peak,81.96,0,1.0,100.74,0,1.0,65.69,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-14,18,Thursday,0,0,0,Clear,Evening Peak,61.98,0,1.0,78.16,0,1.0,53.03,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-22,19,Saturday,1,0,0,Clear,Evening Peak,109.2,1,1.6,137.45,1,1.6,55.94,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-15,3,Wednesday,0,0,1,Light Rain,Late Night,80.48,0,1.0,95.74,0,1.0,63.0,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-20,21,Friday,0,0,0,Clear,Evening Peak,56.74,0,1.0,98.66,1,1.3,81.33,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-06,5,Sunday,1,0,0,Clear,Late Night,68.53,0,1.0,83.72,0,1.0,54.94,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-08,19,Monday,0,0,0,Clear,Evening Peak,61.64,0,1.0,80.71,0,1.0,53.98,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-15,23,Wednesday,0,0,0,Clear,Late Night,66.02,0,1.0,76.92,0,1.0,48.84,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-26,3,Friday,0,0,0,Clear,Late Night,69.81,0,1.0,79.27,0,1.0,54.38,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-10,20,Sunday,1,0,1,Light Rain,Evening Peak,151.73,1,2.0,99.74,0,1.0,104.87,1,1.9,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-18,4,Thursday,0,0,1,Heavy Rain,Late Night,94.14,1,1.3,93.38,0,1.0,56.94,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-06,10,Tuesday,0,0,0,Clear,Morning Peak,84.12,1,1.2,141.1,1,1.9,84.26,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-27,9,Monday,0,0,0,Clear,Morning Peak,64.56,0,1.0,94.09,1,1.2,52.0,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-13,9,Wednesday,0,0,0,Clear,Morning Peak,86.75,1,1.3,76.09,0,1.0,44.98,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-14,18,Wednesday,0,0,0,Clear,Evening Peak,62.09,0,1.0,78.04,0,1.0,54.05,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-16,12,Friday,0,0,0,Clear,Off Peak,65.71,0,1.0,86.41,0,1.0,52.39,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-27,13,Monday,0,0,0,Clear,Off Peak,65.21,0,1.0,73.76,0,1.0,53.91,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-25,18,Wednesday,0,0,1,Light Rain,Evening Peak,114.08,1,1.7,90.21,0,1.0,78.96,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-21,17,Sunday,1,0,0,Clear,Evening Peak,77.46,0,1.0,83.34,0,1.0,61.96,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-01,13,Saturday,1,0,1,Heavy Rain,Off Peak,86.7,0,1.0,95.61,0,1.0,99.31,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-12,19,Friday,0,1,0,Clear,Evening Peak,118.37,1,1.7,130.79,1,1.7,55.13,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-23,22,Sunday,1,0,0,Clear,Late Night,75.53,0,1.0,80.57,0,1.0,53.99,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-18,12,Wednesday,0,0,0,Clear,Off Peak,62.53,0,1.0,73.99,0,1.0,47.85,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-23,15,Thursday,0,0,0,Clear,Off Peak,67.86,0,1.0,78.24,0,1.0,44.37,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-23,19,Friday,0,0,1,Heavy Rain,Evening Peak,93.26,1,1.3,114.26,1,1.4,59.28,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-11,0,Wednesday,0,0,0,Clear,Late Night,63.75,0,1.0,77.85,0,1.0,50.2,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-02,1,Monday,0,0,0,Clear,Late Night,106.38,1,1.7,74.55,0,1.0,52.07,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-20,12,Saturday,1,0,0,Clear,Off Peak,90.23,1,1.3,88.99,0,1.0,61.79,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-13,8,Sunday,1,0,0,Clear,Morning Peak,72.57,0,1.0,90.0,0,1.0,59.92,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-13,9,Friday,0,0,0,Clear,Morning Peak,65.8,0,1.0,76.89,0,1.0,51.8,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-14,3,Friday,0,0,0,Clear,Late Night,61.88,0,1.0,82.33,0,1.0,50.14,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-03,18,Friday,0,0,1,Light Rain,Evening Peak,109.95,1,1.5,146.72,1,1.7,68.49,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-03,17,Wednesday,0,0,0,Clear,Evening Peak,58.83,0,1.0,75.47,0,1.0,100.37,1,1.9,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-18,22,Saturday,1,1,0,Clear,Late Night,70.23,0,1.0,85.91,0,1.0,55.09,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-11,15,Thursday,0,0,0,Clear,Off Peak,120.7,1,1.9,104.93,1,1.3,48.42,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-16,18,Saturday,1,0,0,Clear,Evening Peak,91.89,1,1.3,129.81,1,1.5,61.1,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-09,21,Wednesday,0,1,1,Heavy Rain,Evening Peak,101.56,1,1.3,127.15,1,1.4,111.75,1,2.0,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-28,9,Friday,0,0,0,Clear,Morning Peak,90.83,1,1.4,139.8,1,1.8,52.67,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-17,23,Thursday,0,0,0,Clear,Late Night,78.29,1,1.2,78.75,0,1.0,53.99,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-06,12,Monday,0,0,0,Clear,Off Peak,62.08,0,1.0,77.43,0,1.0,44.96,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-17,13,Wednesday,0,0,0,Clear,Off Peak,58.79,0,1.0,84.98,0,1.0,52.04,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-09,10,Monday,0,0,0,Clear,Morning Peak,108.56,1,1.7,107.31,1,1.4,52.72,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-01,4,Monday,0,0,0,Clear,Late Night,62.14,0,1.0,80.09,0,1.0,51.29,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-16,23,Thursday,0,0,0,Clear,Late Night,65.67,0,1.0,75.66,0,1.0,51.32,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-26,1,Sunday,1,0,1,Light Rain,Late Night,111.15,1,1.3,166.87,1,1.9,109.62,1,1.8,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-10,6,Tuesday,0,0,1,Light Rain,Late Night,77.14,0,1.0,164.1,1,2.0,67.21,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-28,18,Saturday,1,0,0,Clear,Evening Peak,68.74,0,1.0,82.84,0,1.0,58.94,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-25,2,Saturday,1,0,0,Clear,Late Night,106.7,1,1.6,85.4,0,1.0,56.69,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-01,14,Saturday,1,0,1,Heavy Rain,Off Peak,84.63,0,1.0,116.24,1,1.3,64.07,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-02,10,Monday,0,0,1,Light Rain,Morning Peak,102.65,1,1.4,132.73,1,1.5,53.07,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-26,16,Friday,0,0,1,Heavy Rain,Off Peak,73.83,0,1.0,91.36,0,1.0,79.28,1,1.4,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-15,3,Friday,0,0,1,Heavy Rain,Late Night,112.7,1,1.6,135.07,1,1.6,71.34,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-17,1,Monday,0,0,1,Light Rain,Late Night,117.5,1,1.7,124.57,1,1.5,66.95,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-18,18,Sunday,1,0,0,Clear,Evening Peak,120.02,1,1.7,89.21,0,1.0,61.91,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-08,1,Sunday,1,0,0,Clear,Late Night,68.56,0,1.0,90.59,0,1.0,55.58,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-26,13,Monday,0,0,0,Clear,Off Peak,59.47,0,1.0,76.51,0,1.0,62.09,1,1.3,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-27,10,Friday,0,0,0,Clear,Morning Peak,102.12,1,1.6,115.28,1,1.5,47.04,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-14,19,Sunday,1,0,1,Heavy Rain,Evening Peak,89.77,0,1.0,100.98,0,1.0,91.67,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-16,17,Friday,0,0,0,Clear,Evening Peak,83.82,1,1.4,137.76,1,1.8,101.83,1,2.0,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-16,23,Friday,0,0,1,Light Rain,Late Night,82.25,0,1.0,95.37,0,1.0,54.75,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-14,6,Monday,0,0,0,Clear,Late Night,63.13,0,1.0,77.94,0,1.0,40.54,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-08,11,Saturday,1,1,0,Clear,Off Peak,75.85,0,1.0,90.57,0,1.0,62.95,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-12,1,Tuesday,0,0,1,Heavy Rain,Late Night,130.78,1,1.9,145.29,1,1.7,102.24,1,1.8,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-21,5,Friday,0,0,1,Light Rain,Late Night,78.55,0,1.0,142.21,1,1.7,77.44,1,1.5,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-10,15,Sunday,1,0,1,Heavy Rain,Off Peak,87.06,0,1.0,149.26,1,1.7,72.52,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-07,2,Sunday,1,0,1,Heavy Rain,Late Night,116.49,1,1.6,96.53,0,1.0,67.18,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-09,12,Tuesday,0,0,0,Clear,Off Peak,117.31,1,1.8,78.5,0,1.0,54.46,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-18,1,Tuesday,0,0,0,Clear,Late Night,71.03,0,1.0,100.89,1,1.3,46.7,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-26,20,Saturday,1,0,0,Clear,Evening Peak,123.24,1,1.9,86.11,0,1.0,49.69,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-24,5,Monday,0,0,0,Clear,Late Night,63.72,0,1.0,73.9,0,1.0,47.92,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-23,0,Wednesday,0,0,1,Light Rain,Late Night,79.87,0,1.0,87.86,0,1.0,90.23,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-08,6,Monday,0,0,1,Light Rain,Late Night,82.28,0,1.0,98.68,0,1.0,56.31,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-26,11,Friday,0,0,0,Clear,Off Peak,131.12,1,2.0,82.06,0,1.0,47.09,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-03,22,Wednesday,0,0,0,Clear,Late Night,86.59,1,1.2,78.82,0,1.0,53.06,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-08,7,Wednesday,0,0,0,Clear,Morning Peak,121.52,1,1.8,94.01,1,1.2,48.34,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-15,8,Sunday,1,0,1,Light Rain,Morning Peak,134.28,1,1.7,94.03,0,1.0,107.47,1,1.8,uber,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-08,20,Saturday,1,0,0,Clear,Evening Peak,72.63,0,1.0,85.02,0,1.0,56.84,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-03,15,Sunday,1,0,0,Clear,Off Peak,71.55,0,1.0,156.52,1,1.9,79.56,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-10,4,Tuesday,0,0,1,Light Rain,Late Night,124.73,1,1.7,89.3,0,1.0,66.07,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-04,14,Saturday,1,0,0,Clear,Off Peak,76.08,0,1.0,85.47,0,1.0,56.51,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-15,4,Wednesday,0,0,0,Clear,Late Night,73.24,0,1.0,80.28,0,1.0,45.55,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-23,9,Thursday,0,0,0,Clear,Morning Peak,64.87,0,1.0,108.59,1,1.3,53.19,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-17,21,Thursday,0,0,1,Heavy Rain,Evening Peak,94.28,1,1.2,95.09,0,1.0,112.27,1,2.0,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-18,15,Monday,0,0,1,Light Rain,Off Peak,66.15,0,1.0,91.55,0,1.0,76.62,1,1.3,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-13,16,Thursday,0,0,0,Clear,Off Peak,91.89,1,1.4,83.05,0,1.0,78.93,1,1.6,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-02,17,Saturday,1,0,0,Clear,Evening Peak,65.65,0,1.0,83.61,0,1.0,56.05,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-14,4,Sunday,1,0,1,Light Rain,Late Night,84.6,0,1.0,179.9,1,2.0,71.11,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-01,20,Monday,0,0,0,Clear,Evening Peak,62.96,0,1.0,130.93,1,1.7,59.75,1,1.2,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-24,10,Monday,0,0,1,Light Rain,Morning Peak,135.24,1,1.9,111.58,1,1.2,75.89,1,1.2,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-20,14,Saturday,1,0,1,Light Rain,Off Peak,130.97,1,1.7,143.76,1,1.5,68.46,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-04,12,Tuesday,0,1,0,Clear,Off Peak,100.89,1,1.5,78.59,0,1.0,48.72,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-18,18,Monday,0,0,0,Clear,Evening Peak,91.1,1,1.4,101.09,1,1.3,49.41,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-10,9,Monday,0,0,0,Clear,Morning Peak,123.25,1,1.9,139.69,1,1.8,46.4,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-17,14,Wednesday,0,0,0,Clear,Off Peak,67.37,0,1.0,78.29,0,1.0,51.89,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-04,17,Thursday,0,0,0,Clear,Evening Peak,95.93,1,1.5,137.96,1,1.8,54.42,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-04,6,Thursday,0,0,0,Clear,Late Night,73.74,0,1.0,75.7,0,1.0,48.59,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-17,14,Monday,0,0,0,Clear,Off Peak,60.97,0,1.0,75.65,0,1.0,83.37,1,1.5,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-19,3,Sunday,1,0,0,Clear,Late Night,66.95,0,1.0,84.17,0,1.0,58.74,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-07,1,Thursday,0,0,0,Clear,Late Night,66.58,0,1.0,77.31,0,1.0,49.88,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-21,12,Tuesday,0,0,0,Clear,Off Peak,61.93,0,1.0,84.6,0,1.0,47.13,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-06,23,Saturday,1,1,1,Heavy Rain,Late Night,110.21,1,1.4,96.14,0,1.0,71.98,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-03,7,Monday,0,0,0,Clear,Morning Peak,66.53,0,1.0,121.19,1,1.5,53.04,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-24,2,Thursday,0,0,0,Clear,Late Night,69.34,0,1.0,107.82,1,1.3,43.36,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-13,4,Tuesday,0,0,0,Clear,Late Night,67.01,0,1.0,75.38,0,1.0,50.11,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-06,1,Saturday,1,0,0,Clear,Late Night,72.0,0,1.0,79.31,0,1.0,100.59,1,1.9,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-07,1,Saturday,1,0,0,Clear,Late Night,74.27,0,1.0,82.88,0,1.0,61.52,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-02-28,17,Saturday,1,0,0,Clear,Evening Peak,68.83,0,1.0,82.39,0,1.0,78.77,1,1.4,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-26,1,Saturday,1,0,0,Clear,Late Night,101.93,1,1.5,89.08,0,1.0,63.22,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-20,6,Tuesday,0,0,1,Heavy Rain,Late Night,78.85,0,1.0,148.02,1,1.9,71.51,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-28,5,Tuesday,0,0,0,Clear,Late Night,55.35,0,1.0,81.01,0,1.0,51.44,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-18,6,Monday,0,0,1,Light Rain,Late Night,81.33,0,1.0,134.97,1,1.6,57.77,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-05,21,Friday,0,1,0,Clear,Evening Peak,55.01,0,1.0,121.5,1,1.5,75.06,1,1.4,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-11,14,Wednesday,0,0,0,Clear,Off Peak,64.98,0,1.0,141.88,1,1.8,45.7,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-15,7,Monday,0,0,0,Clear,Morning Peak,65.86,0,1.0,147.35,1,1.9,54.72,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-24,9,Friday,0,0,1,Heavy Rain,Morning Peak,108.98,1,1.5,139.06,1,1.6,54.88,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-09,18,Monday,0,0,0,Clear,Evening Peak,111.86,1,1.7,74.52,0,1.0,48.63,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-01,20,Wednesday,0,0,1,Light Rain,Evening Peak,97.79,1,1.3,157.54,1,1.8,105.16,1,1.9,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-13,0,Friday,0,0,0,Clear,Late Night,68.03,0,1.0,75.86,0,1.0,47.38,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-19,0,Sunday,1,1,1,Heavy Rain,Late Night,87.66,0,1.0,94.94,0,1.0,109.1,1,1.7,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-26,4,Wednesday,0,0,0,Clear,Late Night,121.66,1,1.9,77.37,0,1.0,55.01,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-04,0,Friday,0,0,1,Light Rain,Late Night,110.65,1,1.4,91.9,0,1.0,58.9,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-04,15,Tuesday,0,0,0,Clear,Off Peak,64.78,0,1.0,80.89,0,1.0,51.99,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-09,19,Friday,0,0,0,Clear,Evening Peak,62.13,0,1.0,75.25,0,1.0,51.69,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-09,13,Monday,0,0,0,Clear,Off Peak,53.9,0,1.0,151.64,1,2.0,53.18,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-04,18,Wednesday,0,0,1,Light Rain,Evening Peak,102.22,1,1.5,157.81,1,1.9,78.48,1,1.3,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-07,8,Saturday,1,0,1,Light Rain,Morning Peak,113.34,1,1.4,119.4,1,1.2,64.3,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-08,13,Wednesday,0,0,0,Clear,Off Peak,68.17,0,1.0,106.92,1,1.4,50.89,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-26,11,Tuesday,0,0,1,Light Rain,Off Peak,142.31,1,2.0,87.61,0,1.0,60.8,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-12,8,Tuesday,0,0,0,Clear,Morning Peak,118.62,1,1.8,136.75,1,1.8,49.33,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-26,9,Wednesday,0,0,0,Clear,Morning Peak,76.76,1,1.3,109.59,1,1.4,73.65,1,1.5,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-02,16,Tuesday,0,0,1,Light Rain,Off Peak,75.79,0,1.0,121.52,1,1.4,57.89,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-07,8,Wednesday,0,0,1,Heavy Rain,Morning Peak,127.06,1,1.8,105.82,1,1.2,90.76,1,1.6,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-01,0,Wednesday,0,0,1,Heavy Rain,Late Night,107.54,1,1.5,85.74,0,1.0,69.35,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-24,0,Wednesday,0,0,1,Heavy Rain,Late Night,134.89,1,1.8,135.2,1,1.6,104.18,1,1.9,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-08,8,Thursday,0,0,0,Clear,Morning Peak,64.01,0,1.0,127.31,1,1.6,45.7,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-03,17,Monday,0,0,0,Clear,Evening Peak,91.5,1,1.4,80.87,0,1.0,74.37,1,1.5,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-03,9,Wednesday,0,0,0,Clear,Morning Peak,79.47,1,1.3,143.33,1,1.8,80.3,1,1.7,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-23,21,Thursday,0,0,1,Heavy Rain,Evening Peak,119.35,1,1.7,86.8,0,1.0,80.92,1,1.4,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-04,18,Tuesday,0,0,1,Light Rain,Evening Peak,91.25,1,1.2,141.06,1,1.7,62.26,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-11,16,Sunday,1,0,0,Clear,Off Peak,68.45,0,1.0,119.18,1,1.4,58.18,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-03,4,Wednesday,0,0,0,Clear,Late Night,91.92,1,1.4,77.81,0,1.0,53.48,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-26,1,Sunday,1,0,0,Clear,Late Night,127.32,1,1.9,88.14,0,1.0,62.07,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-09-15,5,Monday,0,0,0,Clear,Late Night,66.16,0,1.0,81.83,0,1.0,80.77,1,1.6,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-10-07,21,Wednesday,0,0,0,Clear,Evening Peak,62.4,0,1.0,156.43,1,1.9,71.02,1,1.4,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-22,13,Saturday,1,0,0,Clear,Off Peak,70.86,0,1.0,87.18,0,1.0,55.34,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-14,15,Monday,0,0,1,Heavy Rain,Off Peak,79.89,0,1.0,85.97,0,1.0,61.49,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-07,0,Monday,0,0,0,Clear,Late Night,66.81,0,1.0,69.27,0,1.0,54.33,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-27,7,Tuesday,0,0,0,Clear,Morning Peak,121.24,1,1.9,142.94,1,1.7,95.0,1,1.8,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-04,15,Tuesday,0,0,0,Clear,Off Peak,67.94,0,1.0,79.48,0,1.0,54.14,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-06,15,Monday,0,0,0,Clear,Off Peak,60.16,0,1.0,78.9,0,1.0,47.68,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-14,6,Monday,0,0,1,Light Rain,Late Night,127.8,1,1.7,112.78,1,1.3,84.59,1,1.5,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-10,15,Friday,0,0,0,Clear,Off Peak,61.57,0,1.0,65.81,0,1.0,48.3,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-05-15,21,Wednesday,0,0,0,Clear,Evening Peak,65.45,0,1.0,140.81,1,1.8,56.98,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-02,17,Wednesday,0,0,0,Clear,Evening Peak,68.69,0,1.0,152.87,1,1.9,52.12,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-07,7,Friday,0,0,0,Clear,Morning Peak,64.7,0,1.0,99.91,1,1.3,65.17,1,1.3,ola,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-03,20,Tuesday,0,0,1,Light Rain,Evening Peak,103.65,1,1.3,115.74,1,1.4,84.16,1,1.5,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-01-14,17,Monday,0,0,0,Clear,Evening Peak,57.62,0,1.0,127.94,1,1.6,49.0,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-04-10,5,Wednesday,0,0,0,Clear,Late Night,61.47,0,1.0,78.21,0,1.0,53.89,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-15,17,Saturday,1,0,0,Clear,Evening Peak,71.98,0,1.0,82.13,0,1.0,56.27,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-06-28,4,Tuesday,0,0,0,Clear,Late Night,99.01,1,1.5,77.2,0,1.0,47.63,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-03-26,4,Wednesday,0,0,0,Clear,Late Night,80.45,1,1.3,70.66,0,1.0,47.33,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-10,8,Wednesday,0,0,0,Clear,Morning Peak,114.28,1,1.8,72.84,0,1.0,49.43,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-12-27,3,Wednesday,0,0,0,Clear,Late Night,72.75,0,1.0,67.37,0,1.0,48.46,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-08-13,1,Monday,0,0,0,Clear,Late Night,133.52,1,2.0,83.59,0,1.0,56.39,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-07-14,18,Wednesday,0,0,0,Clear,Evening Peak,84.84,1,1.3,74.22,0,1.0,45.69,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
+2025-11-28,23,Tuesday,0,0,0,Clear,Late Night,69.14,0,1.0,75.78,0,1.0,55.23,0,1.0,rapido,Blue Ridge Tower 20 Phase 1 Hinjewadi,Capgemini Office Phase 3 Hinjewadi,3.8
